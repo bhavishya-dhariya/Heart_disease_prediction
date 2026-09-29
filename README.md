@@ -1,4 +1,3 @@
-# Heart_disease_prediction
 # Heart Disease Prediction
 
 A beginner-friendly Machine Learning project that predicts the risk of heart disease from selected patient health parameters. The project covers the complete ML workflow, from exploratory data analysis and data preprocessing to model training, evaluation, model serialization, and deployment through a Streamlit web application.
@@ -133,3 +132,6 @@ Through this project, I practiced:
 - Connecting a trained ML model with a Streamlit frontend
 - Building an end-to-end beginner Machine Learning project
 
+## Disclaimer
+
+This project is created for learning and demonstration purposes. Its predictions are not medical advice and should not be used for diagnosis, treatment, or clinical decision-making.
